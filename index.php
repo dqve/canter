@@ -1,6 +1,3 @@
 <?php
-
-header ("Location : indexx.html");
-exit();
-
+header('Location: '.$uri.'/indexx.html');
 ?>
